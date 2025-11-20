@@ -5,7 +5,6 @@
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
-4. [Schema](#Schema)
 
 ---
 
@@ -134,3 +133,8 @@ A simple, centralized app for planning trips, organizing itinerary items, and ac
 - **Item Detail Screen**
   * ⇒ Add/Edit Itinerary Item Screen (when user taps “Edit”)
   * ⇒ Trip Detail / Itinerary Screen (back)
+
+### 4. Wireframes
+
+![831839AF-E9CF-45E8-B87B-7C374F9ED2DE_1_105_c](https://github.com/user-attachments/assets/c35fe8c5-7272-4237-90d8-fa2740618f9e)
+
