@@ -1,3 +1,7 @@
+## Status
+🚧 In progress — core navigation and UI scaffolding implemented.  
+Currently building trip list, itinerary management, and map integration.
+
 # Travel Planner
 
 ## Table of Contents
