@@ -18,11 +18,6 @@ class TripsViewController: UIViewController, UITableViewDataSource {
         return cell
     }
     
-    
-    struct Trip {
-        let name: String
-    }
-    
     let trips = [
         Trip(name: "Paris"),
         Trip(name: "New York"),
